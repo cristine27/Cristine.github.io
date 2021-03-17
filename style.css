@@ -1,0 +1,29 @@
+body {
+    background: #555;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;
+}
+
+.quote {
+    margin: 0;
+    background: #eee;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.quote figcaption,
+.quote blockquote {
+    margin: 1em;
+}
